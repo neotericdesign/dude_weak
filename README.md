@@ -1,6 +1,10 @@
 # DudeWeak
 
-TODO: Write a gem description
+This is pending further explanation, but the gist of it is:
+
+You get a Week object starting on that week's Monday, given a date.
+
+Examples pending!
 
 ## Installation
 
